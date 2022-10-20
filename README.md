@@ -1,10 +1,9 @@
 # Magento 2 Order Tracking
-
-Magento 2 Order Tracking extension by Meetanshi lets your customers track the current status of their order with Order ID and email ID.
+***[Magento 2 Order Tracking](https://meetanshi.com/magento-2-order-tracking.html)***  extension by Meetanshi lets your customers track the current status of their order with Order ID and email ID.
 
 Online shopping Customers who have chosen to do online shopping always wants to know when their product will arrive as they didn't have the chance to physically interact with the product and now they are eager to do so. Meetanshi's ***Magento 2 Order Tracking*** extension allows the store owners to provide the facility to their customers to track the order. Such facility provides assurance to customers and hence build their trust.
 
-***[Magento 2 Order Tracking](https://meetanshi.com/magento-2-order-tracking.html)*** extension by Meetanshi allows customers to track their order with Order ID and Email ID, without having to log in. Having such facility will reduce customers' concern about the delivery and encourage them to do more online purchase. The module allows Admin to position the order tracking link in the top link section and the menu. Also, the extension facilitates to send order tracking link in order confirmation Email.
+***Magento 2 Order Tracking*** extension by Meetanshi allows customers to track their order with Order ID and Email ID, without having to log in. Having such facility will reduce customers' concern about the delivery and encourage them to do more online purchase. The module allows Admin to position the order tracking link in the top link section and the menu. Also, the extension facilitates to send order tracking link in order confirmation Email.
 
 
 **Features of Magento 2 Order Tracking:**
